@@ -1,0 +1,5 @@
+name: APluginModuleAPI
+main: com.ndy.ModulePlugin
+version: 1.0
+before: [CubeUI, WorldEdit]
+load: STARTUP
